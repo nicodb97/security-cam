@@ -1,5 +1,5 @@
 const msg = document.getElementById("msg");
-const channel = geckos({port: process.env.PORT});
+const channel = geckos({port: null});
 
 document.write(`${location.protocol}//${location.hostname}:${location.port}`);
 
