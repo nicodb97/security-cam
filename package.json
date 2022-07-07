@@ -2,9 +2,9 @@
   "name": "cam",
   "version": "1.0.0",
   "description": "",
-  "main": "index.cjs",
+  "main": "index.mjs",
   "scripts": {
-    "start": "nodemon index.mjs"
+    "start": "node index.mjs"
   },
   "type": "module",
   "keywords": [],
